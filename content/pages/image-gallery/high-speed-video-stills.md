@@ -1,13 +1,16 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 title: High Speed Video Stills
 uid: f33409c4-8175-2714-b81d-3c2218afaf85
 ---
 
 ### High Speed Video Stills
-{{< image-gallery id="f33409c4-8175-2714-b81d-3c2218afaf85_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/6-163-strobe-project-laboratory-fall-2005/" >}}
+{{< image-gallery id="f33409c4-8175-2714-b81d-3c2218afaf85_nanogallery2" baseUrl="/courses/6-163-strobe-project-laboratory-fall-2005/" >}}
 {{< image-gallery-item href="eb25f569ce60874ba9e97a0adb60119e_wedge1.jpg" data-ngdesc="Still shot from B/W high speed video, deformation sequence #1. Image courtesy of Arlis Reynolds." text="Still shot from B/W high speed video, deformation sequence #1." >}}
 {{< image-gallery-item href="7f27f63a2eec1baf3b46c8d458ef095e_wedge2.jpg" data-ngdesc="Still shot from B/W high speed video, deformation sequence #2. Image courtesy of Arlis Reynolds." text="Still shot from B/W high speed video, deformation sequence #2." >}}
 {{< image-gallery-item href="485ee0a3dfd6a40e91888f1c566bc567_wedge3.jpg" data-ngdesc="Still shot from B/W high speed video, deformation sequence #3. Image courtesy of Arlis Reynolds." text="Still shot from B/W high speed video, deformation sequence #3." >}}

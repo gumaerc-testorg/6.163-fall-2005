@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 title: Images Previous Terms
 uid: a3cfdb5a-7890-2270-10b6-6606ba1bb0aa
 ---
 
-{{< image-gallery id="a3cfdb5a-7890-2270-10b6-6606ba1bb0aa_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/6-163-strobe-project-laboratory-fall-2005/" >}}
+{{< image-gallery id="a3cfdb5a-7890-2270-10b6-6606ba1bb0aa_nanogallery2" baseUrl="/courses/6-163-strobe-project-laboratory-fall-2005/" >}}
 {{< image-gallery-item href="04b3b1b42d01956f47561b2e6100ff1e_1.jpg" data-ngdesc="A bullet passing through a liquid nitrogen dipped rose. Courtesy of Ana Claudio, Vis Taraz, Erick Tseng, and Bo Xie. Used with permission." text="A bullet passing through a liquid nitrogen dipped rose." >}}
 {{< image-gallery-item href="c86dc516301c9cd4a865b3e5a979e6b7_2.jpg" data-ngdesc="A bullet passing through an apple and a pear. Courtesy of Tara Andrews, Ruben Brown, Francisco Delatorre, and Heather Hooper. Used with permission." text="A bullet passing through an apple and a pear." >}}
 {{< image-gallery-item href="d8acce08b867ee8dd2d9fa3506f67789_3.jpg" data-ngdesc="A bullet passing through a peeled orange. Courtesy of Eric Cohen. Used with permission." text="A bullet passing through a peeled orange." >}}

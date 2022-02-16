@@ -2,12 +2,17 @@
 content_type: resource
 description: Disk used during stroboscopy lab to determine rotation speed. Photo courtesy
   of Jim Bales.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-163-strobe-project-laboratory-fall-2005/f8630d8249221e504f9774af7685f1ae_disk_of_horses.jpg
+file: /media/courses/6-163-strobe-project-laboratory-fall-2005/f8630d8249221e504f9774af7685f1ae_disk_of_horses.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Disk used during stroboscopy lab to determine rotation speed.
   credit: Photo courtesy of Jim Bales.
   image-alt: Disk used during stroboscopy lab to determine rotation speed.
+learning_resource_types:
+- Tools
+ocw_type: OCWImage
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Image
 title: disk_of_horses.jpg
 uid: f8630d82-4922-1e50-4f97-74af7685f1ae
