@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Bullet Lab
 parent_type: CourseSection
+parent_uid: ebe3c6fb-a43f-5a3d-bf99-a630e01cb616
 resourcetype: Image
 title: asetup1.jpg
 uid: 68852174-8840-e6b3-4d26-781d77e45339

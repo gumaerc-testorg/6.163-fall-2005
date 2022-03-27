@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Milkdrops
 parent_type: CourseSection
+parent_uid: 31ac6eb3-b942-36b7-020c-3730da6b81bb
 resourcetype: Image
 title: milk5.jpg
 uid: 416fbb49-2ba8-f763-ee12-dc85a0766e7e

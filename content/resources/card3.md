@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Strobe Photos
 parent_type: CourseSection
+parent_uid: 376b6570-b785-1e1d-9d5b-f6d2d3b35fff
 resourcetype: Image
 title: card3.jpg
 uid: 59d649cc-9877-0c6e-c1d5-8060f6e87373

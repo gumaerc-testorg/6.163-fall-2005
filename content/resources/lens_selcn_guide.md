@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 99fa269d-320e-8987-9b9f-8644ae91723c
 resourcetype: Document
 title: lens_selcn_guide.pdf
 uid: c95fe636-7e9d-473e-da86-7bf111423452

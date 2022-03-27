@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 99fa269d-320e-8987-9b9f-8644ae91723c
 resourcetype: Document
 title: memo_guidelines.pdf
 uid: 79753dc7-b607-a769-d3b0-3a0a98359e50

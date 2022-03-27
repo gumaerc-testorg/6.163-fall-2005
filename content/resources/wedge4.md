@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: High Speed Video Stills
 parent_type: CourseSection
+parent_uid: f33409c4-8175-2714-b81d-3c2218afaf85
 resourcetype: Image
 title: wedge4.jpg
 uid: bc2cc901-162e-7bf2-e751-6154887ba228

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 51e67a31-2538-a373-46f7-721da1229636
 resourcetype: Image
 title: lens3_infinity.jpg
 uid: 74b8c3d2-25bc-7b83-700f-a588a1db2276

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 99fa269d-320e-8987-9b9f-8644ae91723c
 resourcetype: Document
 title: darkroom_rules.pdf
 uid: 83a42ca0-08ef-9b72-7b13-96986a2d6e2f

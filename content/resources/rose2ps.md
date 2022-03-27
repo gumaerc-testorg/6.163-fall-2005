@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Strobe Photos
 parent_type: CourseSection
+parent_uid: 376b6570-b785-1e1d-9d5b-f6d2d3b35fff
 resourcetype: Image
 title: rose2ps.jpg
 uid: ada92770-d9f2-904d-f016-30387bd52e86

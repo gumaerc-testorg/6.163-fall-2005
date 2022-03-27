@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Strobe Photos
 parent_type: CourseSection
+parent_uid: 376b6570-b785-1e1d-9d5b-f6d2d3b35fff
 resourcetype: Image
 title: rose4.jpg
 uid: 5f1db34f-f7d2-d8a4-ddfd-432db06be785

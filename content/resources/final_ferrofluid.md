@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 617ded0a-eb80-a2e8-2f8d-2a3670edd782
 resourcetype: Document
 title: final_ferrofluid.pdf
 uid: 47831166-db3b-599e-7275-8514a377c05b

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Videos
 parent_type: CourseSection
+parent_uid: 51cd369a-eca7-e347-1507-a5f406669ce5
 resourcetype: Image
 title: clip0257_thumb.jpg
 uid: 6af7eda9-a9dc-cebe-62e3-1f2bd4a8c4e7
