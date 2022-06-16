@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The exams section gives information on the exams and solutions of the
+  course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -24,19 +26,19 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz 1 ([PDF]({{< baseurl >}}/resources/quiz1))
+Quiz 1 ({{% resource_link 638601b1-02d0-be3b-8479-99ac7d34d384 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quiz1ans))
+({{% resource_link 2ccc9059-8c02-2698-1b8c-29844f455cc1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz 2 ([PDF]({{< baseurl >}}/resources/quiz2))
+Quiz 2 ({{% resource_link 69778def-4c2f-000f-f4dc-2ae90b62a6d5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quiz2ans))
+({{% resource_link d3373506-6ffd-5946-ecb8-58ec2346a6f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

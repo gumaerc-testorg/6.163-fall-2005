@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Image Gallery
@@ -29,4 +30,4 @@ All photos and videos used with permission.
 
   
   
-[Videos]({{< baseurl >}}/pages/image-gallery/images-previous-terms/#Videos) may be found at the bottom of the image gallery.
+{{% resource_link a3cfdb5a-7890-2270-10b6-6606ba1bb0aa "Videos" "#Videos" %}} may be found at the bottom of the image gallery.

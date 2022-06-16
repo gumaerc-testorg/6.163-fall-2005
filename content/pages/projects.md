@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The projects section gives information on mark 1 and final project of
+  the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -14,7 +16,7 @@ Again, all assigned work must be handed in to receive a grade.
 Exemplary Final Student Project
 -------------------------------
 
-Ferrofluid Drops: Studying Ferrofluids with High Speed Video ([PDF]({{< baseurl >}}/resources/final_ferrofluid)) (Courtesy of Arun Agarwal, Elizabeth Reid, Ian Brelinsky, and Yun Ji.  Used with permission.)
+Ferrofluid Drops: Studying Ferrofluids with High Speed Video ({{% resource_link 47831166-db3b-599e-7275-8514a377c05b "PDF" %}}) (Courtesy of Arun Agarwal, Elizabeth Reid, Ian Brelinsky, and Yun Ji.  Used with permission.)
 
 Final Projects from Past Years
 ------------------------------

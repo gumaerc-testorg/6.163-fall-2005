@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The related resources section gives the high speed photography links
+  which can be visited.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
