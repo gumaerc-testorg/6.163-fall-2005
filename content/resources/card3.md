@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds.
   image-alt: 8 of clubs just after bullet splits the card in two.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Strobe Photos
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: card3.jpg
 uid: 59d649cc-9877-0c6e-c1d5-8060f6e87373
 ---
 8 of clubs just after bullet splits the card in two. Image courtesy of Arlis Reynolds.
-

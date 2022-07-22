@@ -10,6 +10,7 @@ image_metadata:
     Eastment.
   image-alt: Frozen rose 2 - showing bullet (Photoshop-enhanced).
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Strobe Photos
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: rose2ps.jpg
 uid: ada92770-d9f2-904d-f016-30387bd52e86
 ---
 Frozen rose 2 - showing bullet (Photoshop-enhanced). Image courtesy of Arlis Reynolds. All Photoshop work was performed by Amy Eastment.
-

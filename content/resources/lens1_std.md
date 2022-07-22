@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Camera lens at standard extension.
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Tools
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: lens1_std.jpg
 uid: e54b3f2b-8b20-90a4-232e-9065ec340219
 ---
 Camera lens at standard extension. Photo courtesy of Jim Bales.
-

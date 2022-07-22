@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Rewinding the film.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Bullet Lab
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: asetup3.jpg
 uid: 8ea748f6-db0e-e1cd-a4e5-aa08efcac0e4
 ---
 Rewinding the film. Image courtesy of Arlis Reynolds.
-

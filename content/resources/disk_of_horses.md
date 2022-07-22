@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Disk used during stroboscopy lab to determine rotation speed.
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Tools
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: disk_of_horses.jpg
 uid: f8630d82-4922-1e50-4f97-74af7685f1ae
 ---
 Disk used during stroboscopy lab to determine rotation speed. Photo courtesy of Jim Bales.
-

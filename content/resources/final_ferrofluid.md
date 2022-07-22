@@ -6,6 +6,7 @@ file: /courses/6-163-strobe-project-laboratory-fall-2005/47831166db3b599e7275851
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: final_ferrofluid.pdf
 uid: 47831166-db3b-599e-7275-8514a377c05b
 ---
 Example final project (Courtesy of Arun Agarwal, Elizabeth Reid, Ian Brelinsky, and Yun Ji.  Used with permission.).
-

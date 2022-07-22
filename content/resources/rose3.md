@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Frozen rose 3 - just as bullet exits (Photoshop-enhanced).
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Strobe Photos
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: rose3.jpg
 uid: d08415a0-17f2-125f-2331-a830a4715871
 ---
 Frozen rose 3 - just as bullet exits (Photoshop-enhanced). Image courtesy of Arlis Reynolds.
-

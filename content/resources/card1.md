@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds.
   image-alt: 8 of spades just after bullet enters card.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Strobe Photos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: card1.jpg
 uid: 04ca3e9f-fd53-9951-e222-b78cf7b872e0
 ---
 8 of spades just after bullet enters card. Image courtesy of Arlis Reynolds.
-

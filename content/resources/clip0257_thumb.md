@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Videos
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: clip0257_thumb.jpg
 uid: 6af7eda9-a9dc-cebe-62e3-1f2bd4a8c4e7
 ---
 Video of a bullet passing through a cucumber.
-

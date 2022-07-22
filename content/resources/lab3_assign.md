@@ -5,6 +5,7 @@ file: /courses/6-163-strobe-project-laboratory-fall-2005/10a33dc866df1be9c90df00
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab3_assign.pdf
 uid: 10a33dc8-66df-1be9-c90d-f007801fb30b
 ---
 This resource contains information on evaluation of multiflash photography.
-

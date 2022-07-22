@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Amy strikes the heated metal over the cut-off hardy.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: strike1.jpg
 uid: fbcc1385-252b-e7e1-d4b3-ccd1bf8a9992
 ---
 Amy strikes the heated metal over the cut-off hardy. Image courtesy of Arlis Reynolds.
-

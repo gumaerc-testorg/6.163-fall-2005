@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Videos
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: clip0123_thumb.jpg
 uid: c32dab25-d526-22b0-578d-d2e47c41e986
 ---
 Video of a pencil shot into a board.
-

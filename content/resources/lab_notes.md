@@ -6,6 +6,7 @@ file: /courses/6-163-strobe-project-laboratory-fall-2005/2b69a4d9372895837ef9349
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab_notes.pdf
 uid: 2b69a4d9-3728-9583-7ef9-349eb2563bc1
 ---
 This resource contains information on materials, objectives, metal deformation and sessions.
-

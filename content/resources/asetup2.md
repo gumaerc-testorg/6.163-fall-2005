@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Setup with frozen rose; camera and strobe on left.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Bullet Lab
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: asetup2.jpg
 uid: 17335cc8-1ddc-52b0-3d4a-4cb1a9e80816
 ---
 Setup with frozen rose; camera and strobe on left. Image courtesy of Arlis Reynolds.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Camera lens in macro mode (full extension).
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Tools
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: lens2_macro.jpg
 uid: 218f0a46-5049-8497-bd39-939b41e8ca0c
 ---
 Camera lens in macro mode (full extension). Photo courtesy of Jim Bales.
-

@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds.
   image-alt: 'Still frame #3 taken from high speed video of milkdrop sequence.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Milkdrops
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: milk3.jpg
 uid: bde771ec-d24a-7564-ace5-3a5d82c39288
 ---
 Still frame #3 taken from high speed video of milkdrop sequence. Image courtesy of Arlis Reynolds.
-

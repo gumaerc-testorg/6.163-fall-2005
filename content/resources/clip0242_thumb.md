@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Videos
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: clip0242_thumb.jpg
 uid: ef008f31-a706-0d9e-9312-8d030272e400
 ---
 Video of a bullet passing through a banana.
-

@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Setup for the bullet lab, with rifle in foreground.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Bullet Lab
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: asetup1.jpg
 uid: 68852174-8840-e6b3-4d26-781d77e45339
 ---
 Setup for the bullet lab, with rifle in foreground. Image courtesy of Arlis Reynolds.
-

@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Frozen rose 2 - showing bullet (original image).
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Strobe Photos
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: rose2.jpg
 uid: eab61b63-0807-a25c-07d9-20ed74f442cc
 ---
 Frozen rose 2 - showing bullet (original image). Image courtesy of Arlis Reynolds.
-

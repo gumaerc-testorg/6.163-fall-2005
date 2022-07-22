@@ -10,6 +10,7 @@ image_metadata:
     Eastment.
   image-alt: Frozen rose 5 - exit spray (Photoshop-enhanced).
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Strobe Photos
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: rose5ps.jpg
 uid: 181c63ae-c17c-383e-38ed-8bc41af612ee
 ---
 Frozen rose 5 - exit spray (Photoshop-enhanced). Image courtesy of Arlis Reynolds. All Photoshop work was performed by Amy Eastment.
-
