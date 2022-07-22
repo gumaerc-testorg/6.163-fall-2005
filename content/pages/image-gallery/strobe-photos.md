@@ -1,13 +1,17 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 title: Strobe Photos
 uid: 376b6570-b785-1e1d-9d5b-f6d2d3b35fff
 ---
 
 ### Strobe Photos
-{{< image-gallery id="376b6570-b785-1e1d-9d5b-f6d2d3b35fff_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/6-163-strobe-project-laboratory-fall-2005/" >}}
+{{< image-gallery id="376b6570-b785-1e1d-9d5b-f6d2d3b35fff_nanogallery2" baseUrl="/courses/6-163-strobe-project-laboratory-fall-2005/" >}}
 {{< image-gallery-item href="f3d7ad8d3df9958c6ca762aa8fd63022_card.jpg" data-ngdesc="Test shot of card and bullet on eraser. Image courtesy of Arlis Reynolds." text="Test shot of card and bullet on eraser." >}}
 {{< image-gallery-item href="04ca3e9ffd539951e222b78cf7b872e0_card1.jpg" data-ngdesc="8 of spades just after bullet enters card. Image courtesy of Arlis Reynolds." text="8 of spades just after bullet enters card." >}}
 {{< image-gallery-item href="56045513496dbf4bfe3425dcff889492_card2.jpg" data-ngdesc="8 of diamonds with bullet halfway through the card. Image courtesy of Arlis Reynolds." text="8 of diamonds with bullet halfway through the card." >}}

@@ -1,12 +1,15 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 title: Images Previous Terms
 uid: a3cfdb5a-7890-2270-10b6-6606ba1bb0aa
 ---
-
-{{< image-gallery id="a3cfdb5a-7890-2270-10b6-6606ba1bb0aa_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/6-163-strobe-project-laboratory-fall-2005/" >}}
+{{< image-gallery id="a3cfdb5a-7890-2270-10b6-6606ba1bb0aa_nanogallery2" baseUrl="/courses/6-163-strobe-project-laboratory-fall-2005/" >}}
 {{< image-gallery-item href="04b3b1b42d01956f47561b2e6100ff1e_1.jpg" data-ngdesc="A bullet passing through a liquid nitrogen dipped rose. Courtesy of Ana Claudio, Vis Taraz, Erick Tseng, and Bo Xie. Used with permission." text="A bullet passing through a liquid nitrogen dipped rose." >}}
 {{< image-gallery-item href="c86dc516301c9cd4a865b3e5a979e6b7_2.jpg" data-ngdesc="A bullet passing through an apple and a pear. Courtesy of Tara Andrews, Ruben Brown, Francisco Delatorre, and Heather Hooper. Used with permission." text="A bullet passing through an apple and a pear." >}}
 {{< image-gallery-item href="d8acce08b867ee8dd2d9fa3506f67789_3.jpg" data-ngdesc="A bullet passing through a peeled orange. Courtesy of Eric Cohen. Used with permission." text="A bullet passing through a peeled orange." >}}
@@ -27,12 +30,7 @@ uid: a3cfdb5a-7890-2270-10b6-6606ba1bb0aa
 {{</ image-gallery >}}
 ### {{< anchor "Videos" >}}{{< /anchor >}}Videos
 
-*   [![](/courses/electrical-engineering-and-computer-science/6-163-strobe-project-laboratory-fall-2005/image-gallery/images-previous-terms/videos/clip0257_thumb.jpg)Video of a bullet passing through a cucumber.  
-    (1.6MB)](http://www.archive.org/download/MIT6.163F05/betterclip0257fast__512kb.mp4)
-*   [![](/courses/electrical-engineering-and-computer-science/6-163-strobe-project-laboratory-fall-2005/image-gallery/images-previous-terms/videos/clip0242_thumb.jpg)Video of a bullet passing through a banana.  
-    (2.2MB)](http://www.archive.org/download/MIT6.163F05/betterclip0242__512kb.mp4)
-*   [![](/courses/electrical-engineering-and-computer-science/6-163-strobe-project-laboratory-fall-2005/image-gallery/images-previous-terms/videos/clip0123_thumb.jpg)Video of a pencil shot into a board.  
-      
-    ](http://www.archive.org/download/MIT6.163F05/betterclip0123__512kb.mp4)
-*   [![](/courses/electrical-engineering-and-computer-science/6-163-strobe-project-laboratory-fall-2005/image-gallery/images-previous-terms/videos/clip0113_thumb.jpg)Video of a pencil shot into a board.  
-    (1.2MB)](http://www.archive.org/download/MIT6.163F05/betterclip0113slow__512kb.mp4)
+*   {{< resource uuid="6af7eda9-a9dc-cebe-62e3-1f2bd4a8c4e7" href="http://www.archive.org/download/MIT6.163F05/betterclip0257fast__512kb.mp4" >}}[Video of a bullet passing through a cucumber.  ](http://www.archive.org/download/MIT6.163F05/betterclip0257fast__512kb.mp4)
+*   {{< resource uuid="ef008f31-a706-0d9e-9312-8d030272e400" href="http://www.archive.org/download/MIT6.163F05/betterclip0242__512kb.mp4" >}}[Video of a bullet passing through a banana.  ](http://www.archive.org/download/MIT6.163F05/betterclip0242__512kb.mp4)
+*   {{< resource uuid="c32dab25-d526-22b0-578d-d2e47c41e986" href="http://www.archive.org/download/MIT6.163F05/betterclip0123__512kb.mp4" >}}[Video of a pencil shot into a board.](http://www.archive.org/download/MIT6.163F05/betterclip0123__512kb.mp4)
+*   {{< resource uuid="7a726d6a-aa7f-1853-216c-7ddb71291d1e" href="http://www.archive.org/download/MIT6.163F05/betterclip0113slow__512kb.mp4" >}}[Video of a pencil shot into a board.  ](http://www.archive.org/download/MIT6.163F05/betterclip0113slow__512kb.mp4)

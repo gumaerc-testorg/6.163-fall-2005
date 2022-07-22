@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The image gallery contains the photos and images which can be used in
+  the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 ---
@@ -12,7 +16,7 @@ The photos in this section are courtesy of the following people, and used with p
 ### Metal Deformation Lab
 
 ### Setup
-{{< image-gallery id="eef6bfea-3fc5-9cd3-21fa-e9b244084d17_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/6-163-strobe-project-laboratory-fall-2005/" >}}
+{{< image-gallery id="eef6bfea-3fc5-9cd3-21fa-e9b244084d17_nanogallery2" baseUrl="/courses/6-163-strobe-project-laboratory-fall-2005/" >}}
 {{< image-gallery-item href="c32bb229c6b4a4bc4f7355eecff6e005_setup1.jpg" data-ngdesc="The complete setup: hammers, anvil, forge, and HSV camera. Image courtesy of Arlis Reynolds." text="The complete setup: hammers, anvil, forge, and HSV camera." >}}
 {{< image-gallery-item href="be4d80f6eb391aab11d03037b1ed3bcb_setup2.jpg" data-ngdesc="Nima and Heather setting up the HSV camera. Image courtesy of Arlis Reynolds." text="Nima and Heather setting up the HSV camera." >}}
 {{< image-gallery-item href="762fcc876d53e6dd2efa5785b783b562_setup3.jpg" data-ngdesc="Nima checks the computer settings for the HSV camera; Amy heats the metal. Image courtesy of Arlis Reynolds." text="Nima checks the computer settings for the HSV camera; Amy heats the metal." >}}
