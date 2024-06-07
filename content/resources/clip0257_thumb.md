@@ -2,6 +2,7 @@
 content_type: resource
 description: Video of a bullet passing through a cucumber.
 file: /courses/6-163-strobe-project-laboratory-fall-2005/6af7eda9a9dccebe62e31f2bd4a8c4e7_clip0257_thumb.jpg
+file_size: 7345
 file_type: image/jpeg
 image_metadata:
   caption: Video of a bullet passing through a cucumber.

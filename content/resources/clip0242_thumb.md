@@ -2,6 +2,7 @@
 content_type: resource
 description: Video of a bullet passing through a banana.
 file: /courses/6-163-strobe-project-laboratory-fall-2005/ef008f31a7060d9e93128d030272e400_clip0242_thumb.jpg
+file_size: 7388
 file_type: image/jpeg
 image_metadata:
   caption: Video of a bullet passing through a banana.

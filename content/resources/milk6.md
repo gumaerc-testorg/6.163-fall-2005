@@ -3,6 +3,7 @@ content_type: resource
 description: 'Still frame #6 taken from high speed video of milkdrop sequence. Image
   courtesy of Arlis Reynolds.'
 file: /courses/6-163-strobe-project-laboratory-fall-2005/d6bea627547084593c46c544d5b8fa3c_milk6.jpg
+file_size: 29231
 file_type: image/jpeg
 image_metadata:
   caption: 'Still frame #6 taken from high speed video of milkdrop sequence.'

@@ -3,6 +3,7 @@ content_type: resource
 description: Frozen rose 4 - just as bullet exits (Photoshop-enhanced). Image courtesy
   of Arlis Reynolds. All Photoshop work was performed by Amy Eastment.
 file: /courses/6-163-strobe-project-laboratory-fall-2005/557572c4caa6530003cf206a6bd47c5a_rose4ps.jpg
+file_size: 33569
 file_type: image/jpeg
 image_metadata:
   caption: Frozen rose 4 - just as bullet exits (Photoshop-enhanced).

@@ -3,6 +3,7 @@ content_type: resource
 description: Frozen rose 2 - showing bullet (Photoshop-enhanced). Image courtesy of
   Arlis Reynolds. All Photoshop work was performed by Amy Eastment.
 file: /courses/6-163-strobe-project-laboratory-fall-2005/ada92770d9f2904df01630387bd52e86_rose2ps.jpg
+file_size: 34943
 file_type: image/jpeg
 image_metadata:
   caption: Frozen rose 2 - showing bullet (Photoshop-enhanced).

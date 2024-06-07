@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on film development procedures, pPreparing
   and applying the chemicals, film developer and print development procedures.
 file: /courses/6-163-strobe-project-laboratory-fall-2005/83a42ca008ef9b727b1396986a2d6e2f_darkroom_rules.pdf
+file_size: 78233
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
