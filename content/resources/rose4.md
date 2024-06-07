@@ -3,6 +3,7 @@ content_type: resource
 description: Frozen rose 4 - just as bullet exits (original image). Image courtesy
   of Arlis Reynolds.
 file: /courses/6-163-strobe-project-laboratory-fall-2005/5f1db34ff7d2d8a4ddfd432db06be785_rose4.jpg
+file_size: 34070
 file_type: image/jpeg
 image_metadata:
   caption: Frozen rose 4 - just as bullet exits (original image).

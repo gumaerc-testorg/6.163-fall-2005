@@ -3,6 +3,7 @@ content_type: resource
 description: 8 of clubs just after bullet splits the card in two. Image courtesy of
   Arlis Reynolds.
 file: /courses/6-163-strobe-project-laboratory-fall-2005/59d649cc98770c6ec1d58060f6e87373_card3.jpg
+file_size: 46711
 file_type: image/jpeg
 image_metadata:
   caption: 8 of clubs just after bullet splits the card in two.

@@ -2,6 +2,7 @@
 content_type: resource
 description: See the groove! Image courtesy of Arlis Reynolds.
 file: /courses/6-163-strobe-project-laboratory-fall-2005/ef424de845d2c19c953347b81cb84e6b_wedge_groove.jpg
+file_size: 26231
 file_type: image/jpeg
 image_metadata:
   caption: See the groove!
