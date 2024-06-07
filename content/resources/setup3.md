@@ -3,6 +3,7 @@ content_type: resource
 description: Nima checks the computer settings for the HSV camera; Amy heats the metal.
   Image courtesy of Arlis Reynolds.
 file: /courses/6-163-strobe-project-laboratory-fall-2005/762fcc876d53e6dd2efa5785b783b562_setup3.jpg
+file_size: 56590
 file_type: image/jpeg
 image_metadata:
   caption: Nima checks the computer settings for the HSV camera; Amy heats the metal.

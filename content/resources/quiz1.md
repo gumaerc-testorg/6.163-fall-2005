@@ -3,6 +3,7 @@ content_type: resource
 description: This reosource contains problems on shutter speed set on camera, maximum
   permissible flash duration and the right focal length lens.
 file: /courses/6-163-strobe-project-laboratory-fall-2005/638601b102d0be3b847999ac7d34d384_quiz1.pdf
+file_size: 16435
 file_type: application/pdf
 learning_resource_types:
 - Exams

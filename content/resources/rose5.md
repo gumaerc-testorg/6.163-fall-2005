@@ -3,6 +3,7 @@ content_type: resource
 description: Frozen rose 5 - exit spray (original image). Image courtesy of Arlis
   Reynolds.
 file: /courses/6-163-strobe-project-laboratory-fall-2005/33e03ceebd4d236aa0cbcd8a1a64de21_rose5.jpg
+file_size: 42261
 file_type: image/jpeg
 image_metadata:
   caption: Frozen rose 5 - exit spray (original image).
