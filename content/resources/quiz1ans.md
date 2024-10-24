@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solution on shutter speed set on camera, maximum
   permissible flash duration and the right focal length lens.
-file: /courses/6-163-strobe-project-laboratory-fall-2005/2ccc90598c0226981b8c29844f455cc1_quiz1ans.pdf
+file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/2ccc90598c0226981b8c29844f455cc1_quiz1ans.pdf
 file_size: 22392
 file_type: application/pdf
 learning_resource_types:

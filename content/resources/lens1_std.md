@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Camera lens at standard extension. Photo courtesy of Jim Bales.
-file: /courses/6-163-strobe-project-laboratory-fall-2005/e54b3f2b8b2090a4232e9065ec340219_lens1_std.jpg
+file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/e54b3f2b8b2090a4232e9065ec340219_lens1_std.jpg
 file_size: 65604
 file_type: image/jpeg
 image_metadata:
