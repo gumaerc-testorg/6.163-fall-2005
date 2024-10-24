@@ -2,7 +2,7 @@
 content_type: resource
 description: Amy strikes the heated metal over the cut-off hardy. Image courtesy of
   Arlis Reynolds.
-file: /courses/6-163-strobe-project-laboratory-fall-2005/fbcc1385252be7e1d4b3ccd1bf8a9992_strike1.jpg
+file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/fbcc1385252be7e1d4b3ccd1bf8a9992_strike1.jpg
 file_size: 56057
 file_type: image/jpeg
 image_metadata:
