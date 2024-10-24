@@ -2,7 +2,7 @@
 content_type: resource
 description: Setup for the bullet lab, with rifle in foreground. Image courtesy of
   Arlis Reynolds.
-file: /courses/6-163-strobe-project-laboratory-fall-2005/688521748840e6b34d26781d77e45339_asetup1.jpg
+file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/688521748840e6b34d26781d77e45339_asetup1.jpg
 file_size: 61690
 file_type: image/jpeg
 image_metadata:

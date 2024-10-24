@@ -2,7 +2,7 @@
 content_type: resource
 description: Frozen rose 5 - exit spray (Photoshop-enhanced). Image courtesy of Arlis
   Reynolds. All Photoshop work was performed by Amy Eastment.
-file: /courses/6-163-strobe-project-laboratory-fall-2005/181c63aec17c383e38ed8bc41af612ee_rose5ps.jpg
+file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/181c63aec17c383e38ed8bc41af612ee_rose5ps.jpg
 file_size: 50869
 file_type: image/jpeg
 image_metadata:
