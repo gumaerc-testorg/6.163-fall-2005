@@ -8,8 +8,8 @@ parent_type: CourseSection
 parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 title: High Speed Video Stills
 uid: f33409c4-8175-2714-b81d-3c2218afaf85
+weight: 20
 ---
-
 ### High Speed Video Stills
 {{< image-gallery id="f33409c4-8175-2714-b81d-3c2218afaf85_nanogallery2" baseUrl="/courses/6-163-strobe-project-laboratory-fall-2005/" >}}
 {{< image-gallery-item href="eb25f569ce60874ba9e97a0adb60119e_wedge1.jpg" data-ngdesc="Still shot from B/W high speed video, deformation sequence #1. Image courtesy of Arlis Reynolds." text="Still shot from B/W high speed video, deformation sequence #1." >}}
