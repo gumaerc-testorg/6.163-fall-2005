@@ -8,8 +8,8 @@ parent_type: CourseSection
 parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 title: Strobe Photos
 uid: 376b6570-b785-1e1d-9d5b-f6d2d3b35fff
+weight: 40
 ---
-
 ### Strobe Photos
 {{< image-gallery id="376b6570-b785-1e1d-9d5b-f6d2d3b35fff_nanogallery2" baseUrl="/courses/6-163-strobe-project-laboratory-fall-2005/" >}}
 {{< image-gallery-item href="f3d7ad8d3df9958c6ca762aa8fd63022_card.jpg" data-ngdesc="Test shot of card and bullet on eraser. Image courtesy of Arlis Reynolds." text="Test shot of card and bullet on eraser." >}}

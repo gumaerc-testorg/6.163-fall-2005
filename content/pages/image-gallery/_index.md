@@ -4,10 +4,11 @@ description: The image gallery contains the photos and images which can be used 
   the course.
 learning_resource_types: []
 ocw_type: CourseSection
+show_section_pages: true
 title: Image Gallery
 uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
+weight: 10
 ---
-
 Fall 2005 Photos
 ----------------
 

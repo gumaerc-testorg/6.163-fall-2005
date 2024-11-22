@@ -8,8 +8,8 @@ parent_type: CourseSection
 parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 title: Milkdrops
 uid: 31ac6eb3-b942-36b7-020c-3730da6b81bb
+weight: 50
 ---
-
 ### Milkdrops
 {{< image-gallery id="31ac6eb3-b942-36b7-020c-3730da6b81bb_nanogallery2" baseUrl="/courses/6-163-strobe-project-laboratory-fall-2005/" >}}
 {{< image-gallery-item href="d31feaf124e0b2e148fcf9ffba2e2913_milk1.jpg" data-ngdesc="Still frame #1 taken from high speed video of milkdrop sequence. Image courtesy of Arlis Reynolds." text="Still frame #1 taken from high speed video of milkdrop sequence." >}}
