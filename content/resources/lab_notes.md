@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on materials, objectives, metal deformation
   and sessions.
-file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/2b69a4d9372895837ef9349eb2563bc1_lab_notes.pdf
+file: /courses/6-163-strobe-project-laboratory-fall-2005/2b69a4d9372895837ef9349eb2563bc1_lab_notes.pdf
 file_size: 380439
 file_type: application/pdf
 learning_resource_types:

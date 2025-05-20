@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Blacksmith Amy heats metal in the forge. Image courtesy of Arlis Reynolds.
-file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/bd2cebe73129649984660c1541982737_setup4.jpg
+file: /courses/6-163-strobe-project-laboratory-fall-2005/bd2cebe73129649984660c1541982737_setup4.jpg
 file_size: 54361
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Test shot of frozen rose. Image courtesy of Arlis Reynolds.
-file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/d2a957d30f9fbcf4cc9e8842e5d143fd_rose.jpg
+file: /courses/6-163-strobe-project-laboratory-fall-2005/d2a957d30f9fbcf4cc9e8842e5d143fd_rose.jpg
 file_size: 28197
 file_type: image/jpeg
 image_metadata:

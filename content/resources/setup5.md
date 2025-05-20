@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The anvil with cut-off hardy. Image courtesy of Arlis Reynolds.
-file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/b3e5fd57079d534238dad5db682eec67_setup5.jpg
+file: /courses/6-163-strobe-project-laboratory-fall-2005/b3e5fd57079d534238dad5db682eec67_setup5.jpg
 file_size: 49290
 file_type: image/jpeg
 image_metadata:

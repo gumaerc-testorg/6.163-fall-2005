@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Still frame #7 taken from high speed video of milkdrop sequence. Image
   courtesy of Arlis Reynolds.'
-file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/2260f1bdbe9e34c02264f21e222a3729_milk7.jpg
+file: /courses/6-163-strobe-project-laboratory-fall-2005/2260f1bdbe9e34c02264f21e222a3729_milk7.jpg
 file_size: 28809
 file_type: image/jpeg
 image_metadata:
