@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on stating objective, defining deliverables,
   methods, setup, timeline, tasklist and a project planning exercise.
-file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/71e192fbc367e9ff42e9a238b3a9ef7f_project_planning.pdf
+file: /courses/6-163-strobe-project-laboratory-fall-2005/71e192fbc367e9ff42e9a238b3a9ef7f_project_planning.pdf
 file_size: 178395
 file_type: application/pdf
 learning_resource_types: []

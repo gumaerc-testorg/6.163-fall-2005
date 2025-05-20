@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Still shot from B/W high speed video, deformation sequence #3. Image
   courtesy of Arlis Reynolds.'
-file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/485ee0a3dfd6a40e91888f1c566bc567_wedge3.jpg
+file: /courses/6-163-strobe-project-laboratory-fall-2005/485ee0a3dfd6a40e91888f1c566bc567_wedge3.jpg
 file_size: 26127
 file_type: image/jpeg
 image_metadata:

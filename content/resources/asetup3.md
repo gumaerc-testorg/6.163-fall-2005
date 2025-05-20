@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Rewinding the film. Image courtesy of Arlis Reynolds.
-file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/8ea748f6db0ee1cda4e5aa08efcac0e4_asetup3.jpg
+file: /courses/6-163-strobe-project-laboratory-fall-2005/8ea748f6db0ee1cda4e5aa08efcac0e4_asetup3.jpg
 file_size: 71455
 file_type: image/jpeg
 image_metadata:

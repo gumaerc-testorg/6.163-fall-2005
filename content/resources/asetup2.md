@@ -2,7 +2,7 @@
 content_type: resource
 description: Setup with frozen rose; camera and strobe on left. Image courtesy of
   Arlis Reynolds.
-file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/17335cc81ddc52b03d4a4cb1a9e80816_asetup2.jpg
+file: /courses/6-163-strobe-project-laboratory-fall-2005/17335cc81ddc52b03d4a4cb1a9e80816_asetup2.jpg
 file_size: 53567
 file_type: image/jpeg
 image_metadata:

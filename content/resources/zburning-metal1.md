@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Deformation sequence, on the anvil - #1. Image courtesy of Arlis Reynolds.'
-file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/1b642cfa539f490be8c349f90861701b_zburning-metal1.jpg
+file: /courses/6-163-strobe-project-laboratory-fall-2005/1b642cfa539f490be8c349f90861701b_zburning-metal1.jpg
 file_size: 23384
 file_type: image/jpeg
 image_metadata:
