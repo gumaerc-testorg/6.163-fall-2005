@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Video of a pencil shot into a board.
-file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/c32dab25d52622b0578dd2e47c41e986_clip0123_thumb.jpg
+file: /courses/6-163-strobe-project-laboratory-fall-2005/c32dab25d52622b0578dd2e47c41e986_clip0123_thumb.jpg
 file_size: 9164
 file_type: image/jpeg
 image_metadata:

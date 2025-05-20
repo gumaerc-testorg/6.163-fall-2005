@@ -2,7 +2,7 @@
 content_type: resource
 description: Frozen rose 3 - just as bullet exits (Photoshop-enhanced). Image courtesy
   of Arlis Reynolds.
-file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/d08415a017f2125f2331a830a4715871_rose3.jpg
+file: /courses/6-163-strobe-project-laboratory-fall-2005/d08415a017f2125f2331a830a4715871_rose3.jpg
 file_size: 32991
 file_type: image/jpeg
 image_metadata:

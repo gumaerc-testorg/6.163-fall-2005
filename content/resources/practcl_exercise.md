@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on collecting HSV images of a water
   balloon bouncing off a table.
-file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/061a264fe0581deddfb59088c911491f_practcl_exercise.pdf
+file: /courses/6-163-strobe-project-laboratory-fall-2005/061a264fe0581deddfb59088c911491f_practcl_exercise.pdf
 file_size: 157721
 file_type: application/pdf
 learning_resource_types:

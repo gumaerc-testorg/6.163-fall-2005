@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Test shot of card and bullet on eraser. Image courtesy of Arlis Reynolds.
-file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/f3d7ad8d3df9958c6ca762aa8fd63022_card.jpg
+file: /courses/6-163-strobe-project-laboratory-fall-2005/f3d7ad8d3df9958c6ca762aa8fd63022_card.jpg
 file_size: 38752
 file_type: image/jpeg
 image_metadata:

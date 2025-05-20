@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Camera lens in macro mode (full extension). Photo courtesy of Jim Bales.
-file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/218f0a4650498497bd39939b41e8ca0c_lens2_macro.jpg
+file: /courses/6-163-strobe-project-laboratory-fall-2005/218f0a4650498497bd39939b41e8ca0c_lens2_macro.jpg
 file_size: 64685
 file_type: image/jpeg
 image_metadata:
