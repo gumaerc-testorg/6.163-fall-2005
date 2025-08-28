@@ -2,7 +2,7 @@
 content_type: resource
 description: 'The complete setup: hammers, anvil, forge, and HSV camera. Image courtesy
   of Arlis Reynolds.'
-file: /courses/6-163-strobe-project-laboratory-fall-2005/c32bb229c6b4a4bc4f7355eecff6e005_setup1.jpg
+file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/c32bb229c6b4a4bc4f7355eecff6e005_setup1.jpg
 file_size: 68092
 file_type: image/jpeg
 image_metadata:

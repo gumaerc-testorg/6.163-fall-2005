@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Nima and Heather setting up the HSV camera. Image courtesy of Arlis Reynolds.
-file: /courses/6-163-strobe-project-laboratory-fall-2005/be4d80f6eb391aab11d03037b1ed3bcb_setup2.jpg
+file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/be4d80f6eb391aab11d03037b1ed3bcb_setup2.jpg
 file_size: 60818
 file_type: image/jpeg
 image_metadata:

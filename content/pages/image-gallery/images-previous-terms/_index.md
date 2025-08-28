@@ -15,7 +15,7 @@ weight: 70
 
 The following images are from the Spring 2005 term.
 
-Photos courtesy of Tara Andrews, Sarah Boucher, Lauren Bradford, Ruben Brown, Amy Chu, Ana Claudio, Eric Cohen, Francisco Delatorre, Parul Deora, Patrick Greeley, Ruxi Guan, Matthew Hausmann, Heather Hooper, Farid Jahanmir, Janice Kim, Pinar Kip, Nicole Klemenko, SiuChoon Koay, Jennifer Lee, Andrew McPherson, Napoleon Nelson, Gabriel Reinstein, Rina Samsudin, Obrad Scepanovic, Charles Sharp, Monique Sin, Vis Taraz, Erick Tseng, Nadia Vinson, Jonathan Wong, Bo Xie and Mingtang-Alex Zhang.
+Photos courtesy of Tara Andrews, Sarah Boucher, Lauren Bradford, Ruben Brown, Amy Chu, Ana Claudio, Eric Cohen, Francisco Delatorre, Parul Deora, Patrick Greeley, Ruxi Guan, Matthew Hausmann, Heather Hooper, Farid Jahanmir, Janice Kim, Pinar Kip, Nicole Klemenko, Jennifer Lee, Andrew McPherson, Napoleon Nelson, Gabriel Reinstein, Rina Samsudin, Obrad Scepanovic, Charles Sharp, Monique Sin, Vis Taraz, Erick Tseng, Nadia Vinson, Jonathan Wong, Bo Xie, Mingtang-Alex Zhang, and other MIT students.
 
 Videos courtesy of Eric Cohen.
 
@@ -43,13 +43,20 @@ All photos and videos used with permission.
 {{< image-gallery-item href="75636c6a52a11c431a9e66bd12fda4c2_18.jpg" data-ngdesc="A bullet passing through playing card. Courtesy of Eric Cohen. Used with permission." text="A bullet passing through playing card." >}}  
 {{< /image-gallery >}}
 
-
 ### {{< anchor "Videos" >}}{{< /anchor >}}Videos
 
-{{< resource uuid="6af7eda9-a9dc-cebe-62e3-1f2bd4a8c4e7" >}}  [Video of a bullet passing through a cucumber.](http://www.archive.org/download/MIT6.163F05/betterclip0257fast__512kb.mp4)
+{{< resource uuid="6af7eda9-a9dc-cebe-62e3-1f2bd4a8c4e7" >}}
 
-{{< resource uuid="ef008f31-a706-0d9e-9312-8d030272e400" >}}  [Video of a bullet passing through a banana.](http://www.archive.org/download/MIT6.163F05/betterclip0242__512kb.mp4)
+[Video of a bullet passing through a cucumber.](http://www.archive.org/download/MIT6.163F05/betterclip0257fast__512kb.mp4)
 
-{{< resource uuid="c32dab25-d526-22b0-578d-d2e47c41e986" >}}  [Video of a pencil shot into a board.](http://www.archive.org/download/MIT6.163F05/betterclip0123__512kb.mp4)
+{{< resource uuid="ef008f31-a706-0d9e-9312-8d030272e400" >}}
 
-{{< resource uuid="7a726d6a-aa7f-1853-216c-7ddb71291d1e" >}}  [Video of a pencil shot into a board.](http://www.archive.org/download/MIT6.163F05/betterclip0113slow__512kb.mp4)
+[Video of a bullet passing through a banana.](http://www.archive.org/download/MIT6.163F05/betterclip0242__512kb.mp4)
+
+{{< resource uuid="c32dab25-d526-22b0-578d-d2e47c41e986" >}}
+
+[Video of a pencil shot into a board.](http://www.archive.org/download/MIT6.163F05/betterclip0123__512kb.mp4)
+
+{{< resource uuid="7a726d6a-aa7f-1853-216c-7ddb71291d1e" >}}
+
+[Video of a pencil shot into a board.](http://www.archive.org/download/MIT6.163F05/betterclip0113slow__512kb.mp4)

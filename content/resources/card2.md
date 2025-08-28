@@ -2,7 +2,7 @@
 content_type: resource
 description: 8 of diamonds with bullet halfway through the card. Image courtesy of
   Arlis Reynolds.
-file: /courses/6-163-strobe-project-laboratory-fall-2005/56045513496dbf4bfe3425dcff889492_card2.jpg
+file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/56045513496dbf4bfe3425dcff889492_card2.jpg
 file_size: 44525
 file_type: image/jpeg
 image_metadata:

@@ -3,7 +3,7 @@ content_type: page
 description: The labs section gives information on laboratory procedures and laboratory
   assignments.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: f87d9f3d-80b9-fa34-2f8c-a93a2850a1e2

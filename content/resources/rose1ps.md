@@ -2,7 +2,7 @@
 content_type: resource
 description: Frozen rose 1 - exit spray (Photoshop-enhanced). Image courtesy of Arlis
   Reynolds. All Photoshop work was performed by Amy Eastment.
-file: /courses/6-163-strobe-project-laboratory-fall-2005/bec36ffb246aa3d426a5f18aedd69620_rose1ps.jpg
+file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/bec36ffb246aa3d426a5f18aedd69620_rose1ps.jpg
 file_size: 46827
 file_type: image/jpeg
 image_metadata:

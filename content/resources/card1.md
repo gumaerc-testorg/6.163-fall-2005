@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 8 of spades just after bullet enters card. Image courtesy of Arlis Reynolds.
-file: /courses/6-163-strobe-project-laboratory-fall-2005/04ca3e9ffd539951e222b78cf7b872e0_card1.jpg
+file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/04ca3e9ffd539951e222b78cf7b872e0_card1.jpg
 file_size: 39199
 file_type: image/jpeg
 image_metadata:

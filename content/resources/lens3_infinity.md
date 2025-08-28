@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Camera lens focused at infinity. Photo courtesy of Jim Bales.
-file: /courses/6-163-strobe-project-laboratory-fall-2005/74b8c3d225bc7b83700fa588a1db2276_lens3_infinity.jpg
+file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/74b8c3d225bc7b83700fa588a1db2276_lens3_infinity.jpg
 file_size: 63821
 file_type: image/jpeg
 image_metadata:
