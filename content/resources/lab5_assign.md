@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource contains information on comparison of Nikon D100 and film
   images IM5-JWB.
-file: /courses/6-163-strobe-project-laboratory-fall-2005/fc19170010219f911ac66ff1a716a739_lab5_assign.pdf
+file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/fc19170010219f911ac66ff1a716a739_lab5_assign.pdf
 file_size: 151174
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -2,7 +2,7 @@
 content_type: resource
 description: Frozen rose 2 - showing bullet (original image). Image courtesy of Arlis
   Reynolds.
-file: /courses/6-163-strobe-project-laboratory-fall-2005/eab61b630807a25c07d920ed74f442cc_rose2.jpg
+file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/eab61b630807a25c07d920ed74f442cc_rose2.jpg
 file_size: 33654
 file_type: image/jpeg
 image_metadata:

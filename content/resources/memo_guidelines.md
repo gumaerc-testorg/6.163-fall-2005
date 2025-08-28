@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on structure of a memo, summary and
   recommendations, background, procedure and results.
-file: /courses/6-163-strobe-project-laboratory-fall-2005/79753dc7b607a769d3b03a0a98359e50_memo_guidelines.pdf
+file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/79753dc7b607a769d3b03a0a98359e50_memo_guidelines.pdf
 file_size: 292602
 file_type: application/pdf
 learning_resource_types: []
