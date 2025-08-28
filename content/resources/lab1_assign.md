@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource contains information on synch and delay method of analyzing
   high-speed phenomena.
-file: /courses/6-163-strobe-project-laboratory-fall-2005/5d02c90e707b36752a6979207e32b468_lab1_assign.pdf
+file: /ol-ocw-studio-app/courses/6-163-strobe-project-laboratory-fall-2005/5d02c90e707b36752a6979207e32b468_lab1_assign.pdf
 file_size: 108072
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
