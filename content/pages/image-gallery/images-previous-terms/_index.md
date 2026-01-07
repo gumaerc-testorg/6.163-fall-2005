@@ -47,16 +47,16 @@ All photos and videos used with permission.
 
 {{< resource uuid="6af7eda9-a9dc-cebe-62e3-1f2bd4a8c4e7" >}}
 
-{{% resource_link "4fc601d9-eccc-483a-875f-f4dbea11f33f" "Video of a bullet passing through a cucumber." %}}
+[Video of a bullet passing through a cucumber.](http://www.archive.org/download/MIT6.163F05/betterclip0257fast__512kb.mp4)
 
 {{< resource uuid="ef008f31-a706-0d9e-9312-8d030272e400" >}}
 
-{{% resource_link "c32bd318-b2c8-4fe4-ba21-f16b96d6a815" "Video of a bullet passing through a banana." %}}
+[Video of a bullet passing through a banana.](http://www.archive.org/download/MIT6.163F05/betterclip0242__512kb.mp4)
 
 {{< resource uuid="c32dab25-d526-22b0-578d-d2e47c41e986" >}}
 
-{{% resource_link "f9c29494-f805-480c-b079-48cf57cfe18e" "Video of a pencil shot into a board." %}}
+[Video of a pencil shot into a board.](http://www.archive.org/download/MIT6.163F05/betterclip0123__512kb.mp4)
 
 {{< resource uuid="7a726d6a-aa7f-1853-216c-7ddb71291d1e" >}}
 
-{{% resource_link "78534cbc-90fa-4c92-98b4-821013499efe" "Video of a pencil shot into a board." %}}
+[Video of a pencil shot into a board.](http://www.archive.org/download/MIT6.163F05/betterclip0113slow__512kb.mp4)
